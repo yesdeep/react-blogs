@@ -1,0 +1,34 @@
+{
+  "blogs": [
+    {
+      "title": "Welcome to Fight Club!",
+      "body": "It is based on the 1996 novel of the same name by Chuck Palahniuk. Norton plays the unnamed narrator, who is discontented with his white-collar job. He forms a fight club with soap salesman Tyler Durden (Pitt), and becomes embroiled in a relationship with a destitute woman, Marla Singer (Bonham Carter). Palahniuk's novel was optioned by Fox 2000 Pictures producer Laura Ziskin, who hired Jim Uhls to write the film adaptation. Fincher was selected because of his enthusiasm for the story. He developed the script with Uhls and sought screenwriting advice from the cast and others in the film industry. He and the cast compared the film to Rebel Without a Cause (1955) and The Graduate (1967), with a theme of conflict between Generation X and the value system of advertising. Studio executives did not like the film, and they restructured Fincher's intended marketing campaign to try to reduce anticipated losses. Fight Club failed to meet the studio's expectations at the box office, and received polarized reactions from critics. It was cited as one of the most controversial and talked-about films of 1999. The film later found commercial success with its DVD release, establishing Fight Club as a cult classic and causing media to revisit the film. In 2009, on the tenth anniversary of the film's release, The New York Times dubbed it the defining cult movie of our time.",
+      "author": "Tyler",
+      "id": 1
+    },
+    {
+      "title": "Rules Of Fight club",
+      "body": "Gentlemen, welcome to Fight Club. The first rule of Fight Club is: You do not talk about Fight Club. The second rule of Fight Club is: You do not talk about Fight Club. Third rule of Fight Club: Someone yells Stop!, goes limp, taps out, the fight is over. Fourth rule: Only two guys to a fight. Fifth rule: One fight at a time, fellas. Sixth rule: No shirts, no shoes. Seventh rule: Fights will go on as long as they have to. And the eighth and final rule: If this is your first night at Fight Club, you have to fight.",
+      "author": "Durden",
+      "id": 2
+    },
+    {
+      "title": " Reminisces About That Time Everyone Hated Fight Club",
+      "body": "Well, at least they could laugh at themselves. The Venice Film Festival screening was only the beginning of the backlash that originally befell the movie. It ultimately became one of the most controversial films of 1999, due to its excessive violence and wild twist ending.",
+      "author": "Brad Pitt",
+      "id": 3
+    },
+    {
+      "title": "What is the point of the movie Fight Club?",
+      "body": "Project Mayhem sets its sights on destruction. Sure, it's literal anarchy for a while, but after that, it has a purpose: Durden wants to blow up the credit card companies, undo the American Dream, and set everyone free from their debt.",
+      "author": "Norton",
+      "id": 4
+    },
+    {
+      "title": "What is the message of Fight Club?",
+      "body": "Fight Club tells us we are not free because of the things we think are important, the things we own, the things and things. It is because we try to complete our life by consuming materials and possessions that surround us, but none of those matters if we are not complete ourselves mentally",
+      "author": "Marla",
+      "id": 5
+    }
+  ]
+}
